@@ -1,0 +1,122 @@
+[
+    {
+        "Pa\u00eds": "CHINA",
+        "A\u00f1o": 2018,
+        "Tipo ataque": "RANSOMWARE",
+        "Industria objetivo": "IT",
+        "P\u00e9rdida financiera": 12.107573769653573,
+        "N\u00famero usuarios afectados": 98167,
+        "Origen ataque": "HACKER GROUP",
+        "Tipo vulnerabilidad": "MISCONFIGURATION",
+        "Mecanismo defensa": "VPN",
+        "Tiempo de resoluci\u00f3n": 65.0
+    },
+    {
+        "Pa\u00eds": "BRAZIL",
+        "A\u00f1o": 2017,
+        "Tipo ataque": "MAN-IN-THE-MIDDLE",
+        "Industria objetivo": "GOVERNMENT",
+        "P\u00e9rdida financiera": 68.03,
+        "N\u00famero usuarios afectados": 403770,
+        "Origen ataque": "HACKER GROUP",
+        "Tipo vulnerabilidad": "WEAK PASSWORDS",
+        "Mecanismo defensa": "ENCRYPTION",
+        "Tiempo de resoluci\u00f3n": 22.0
+    },
+    {
+        "Pa\u00eds": "INDIA",
+        "A\u00f1o": 2015,
+        "Tipo ataque": "MAN-IN-THE-MIDDLE",
+        "Industria objetivo": "BANKING",
+        "P\u00e9rdida financiera": 97.28,
+        "N\u00famero usuarios afectados": 694308,
+        "Origen ataque": "NATION-STATE",
+        "Tipo vulnerabilidad": "WEAK PASSWORDS",
+        "Mecanismo defensa": "VPN",
+        "Tiempo de resoluci\u00f3n": 66.0
+    },
+    {
+        "Pa\u00eds": "INDIA",
+        "A\u00f1o": 2024,
+        "Tipo ataque": "PHISHING",
+        "Industria objetivo": "RETAIL",
+        "P\u00e9rdida financiera": 92.48,
+        "N\u00famero usuarios afectados": 32067,
+        "Origen ataque": "INSIDER",
+        "Tipo vulnerabilidad": "UNPATCHED SOFTWARE",
+        "Mecanismo defensa": "ANTIVIRUS",
+        "Tiempo de resoluci\u00f3n": 19.0
+    },
+    {
+        "Pa\u00eds": "BRAZIL",
+        "A\u00f1o": 2016,
+        "Tipo ataque": "SQL INJECTION",
+        "Industria objetivo": "EDUCATION",
+        "P\u00e9rdida financiera": 55.83,
+        "N\u00famero usuarios afectados": 758258,
+        "Origen ataque": "UNKNOWN",
+        "Tipo vulnerabilidad": "ZERO-DAY",
+        "Mecanismo defensa": "ENCRYPTION",
+        "Tiempo de resoluci\u00f3n": 44.0
+    },
+    {
+        "Pa\u00eds": "GERMANY",
+        "A\u00f1o": 2024,
+        "Tipo ataque": "MAN-IN-THE-MIDDLE",
+        "Industria objetivo": "EDUCATION",
+        "P\u00e9rdida financiera": 26.58,
+        "N\u00famero usuarios afectados": 313397,
+        "Origen ataque": "HACKER GROUP",
+        "Tipo vulnerabilidad": "SOCIAL ENGINEERING",
+        "Mecanismo defensa": "AI-BASED DETECTION",
+        "Tiempo de resoluci\u00f3n": 36.0
+    },
+    {
+        "Pa\u00eds": "BRAZIL",
+        "A\u00f1o": 2021,
+        "Tipo ataque": "SQL INJECTION",
+        "Industria objetivo": "IT",
+        "P\u00e9rdida financiera": 34.32,
+        "N\u00famero usuarios afectados": 673923,
+        "Origen ataque": "HACKER GROUP",
+        "Tipo vulnerabilidad": "UNPATCHED SOFTWARE",
+        "Mecanismo defensa": "ENCRYPTION",
+        "Tiempo de resoluci\u00f3n": 3.0
+    },
+    {
+        "Pa\u00eds": "GERMANY",
+        "A\u00f1o": 2022,
+        "Tipo ataque": "MAN-IN-THE-MIDDLE",
+        "Industria objetivo": "TELECOMMUNICATIONS",
+        "P\u00e9rdida financiera": 0.54,
+        "N\u00famero usuarios afectados": 419912,
+        "Origen ataque": "NATION-STATE",
+        "Tipo vulnerabilidad": "ZERO-DAY",
+        "Mecanismo defensa": "AI-BASED DETECTION",
+        "Tiempo de resoluci\u00f3n": 40.0
+    },
+    {
+        "Pa\u00eds": "INDIA",
+        "A\u00f1o": 2015,
+        "Tipo ataque": "PHISHING",
+        "Industria objetivo": "HEALTHCARE",
+        "P\u00e9rdida financiera": 76.08,
+        "N\u00famero usuarios afectados": 471550,
+        "Origen ataque": "UNKNOWN",
+        "Tipo vulnerabilidad": "ZERO-DAY",
+        "Mecanismo defensa": "VPN",
+        "Tiempo de resoluci\u00f3n": 5.0
+    },
+    {
+        "Pa\u00eds": "RUSSIA",
+        "A\u00f1o": 2015,
+        "Tipo ataque": "DDOS",
+        "Industria objetivo": "BANKING",
+        "P\u00e9rdida financiera": 40.64,
+        "N\u00famero usuarios afectados": 259321,
+        "Origen ataque": "NATION-STATE",
+        "Tipo vulnerabilidad": "SOCIAL ENGINEERING",
+        "Mecanismo defensa": "AI-BASED DETECTION",
+        "Tiempo de resoluci\u00f3n": 62.0
+    }
+]
